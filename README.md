@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saylon-Gabriell
-- 👀 I’m interested in c++, javascript
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in GDScript
+- 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
