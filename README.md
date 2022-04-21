@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saylon-Gabriell
-- 👀 I’m interested in Python
+- 👀 I’m interested in Rust
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
