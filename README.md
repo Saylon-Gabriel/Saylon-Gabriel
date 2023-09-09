@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saylon-Gabriell
+- 👋 Hi, I’m @Saylon-Gabriel
 - 👀 I’m interested in V, Rust
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
